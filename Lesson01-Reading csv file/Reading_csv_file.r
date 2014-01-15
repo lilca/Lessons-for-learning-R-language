@@ -1,0 +1,12 @@
+# Setting a work directory
+# 作業ディレクトリの設定
+setwd("~/Documents/github/repository/Lessons for learning R language/Lesson01-Reading csv file")
+
+# Reading "sample.csv" in work directory
+# 作業ディレクトリ内にある"sample.csv"を読込む
+x <- read.table("sample.csv", header=T, sep=",")
+
+# Checking the data set
+# 内容確認
+print(x)
+
