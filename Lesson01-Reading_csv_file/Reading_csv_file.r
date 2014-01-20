@@ -1,6 +1,6 @@
 # Setting a work directory
 # 作業ディレクトリの設定
-setwd("~/Documents/github/repository/Lessons for learning R language/Lesson01-Reading csv file")
+setwd("~/Documents/github/repository/Lessons-for-learning-R-language/Lesson01-Reading_csv_file")
 
 # Reading "sample.csv" in work directory
 # 作業ディレクトリ内にある"sample.csv"を読込む
